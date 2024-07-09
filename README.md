@@ -1,3 +1,3 @@
 # VersionControl
 Revising git &amp; Github
-Authoe:- Kamal
+Authoe:- Kamal Lochan Dash
